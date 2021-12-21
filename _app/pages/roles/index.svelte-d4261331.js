@@ -1,1 +1,0 @@
-import{S as n,i as t,s as o,A as a}from"../../chunks/vendor-db9a13f6.js";import{p as r}from"../../chunks/Navbar-777cf7dd.js";function u(s){return a(()=>{r.set({current:"/roles"})}),[]}class f extends n{constructor(e){super();t(this,e,u,null,o,{})}}export{f as default};
