@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-5f8481ae.js",
+    "file": "start-35b73240.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -124,7 +124,7 @@
     ]
   },
   "src/routes/about/roles.svelte": {
-    "file": "pages/about/roles.svelte-9e2cf0b4.js",
+    "file": "pages/about/roles.svelte-09eb27f5.js",
     "src": "src/routes/about/roles.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
