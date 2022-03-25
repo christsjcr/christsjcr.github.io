@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7c84207c.js",
+    "file": "start-5fb08950.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -19,14 +19,13 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-8878ee68.js",
+    "file": "pages/__layout.svelte-5c0ef1bb.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_page-71457ca4.js",
-      "_width-1f60229a.js"
+      "_width-47c7269d.js"
     ],
     "css": [
       "assets/pages/__layout.svelte-c1c00921.css"
@@ -42,92 +41,91 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-3534b232.js",
+    "file": "pages/index.svelte-8e54b0d6.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_NotificationLink-a1977618.js",
-      "_PageHeader-1e706257.js",
+      "_PageHeader-2fbde0a4.js",
       "_stores-76de0764.js",
-      "_page-71457ca4.js"
+      "_width-47c7269d.js"
     ]
   },
   "src/routes/resources/index.svelte": {
-    "file": "pages/resources/index.svelte-3a69235b.js",
+    "file": "pages/resources/index.svelte-2e2d8f4a.js",
     "src": "src/routes/resources/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-1e706257.js",
-      "_page-71457ca4.js"
+      "_PageHeader-2fbde0a4.js",
+      "_width-47c7269d.js"
     ]
   },
   "src/routes/resources/[heading].svelte": {
-    "file": "pages/resources/_heading_.svelte-13c0ede2.js",
+    "file": "pages/resources/_heading_.svelte-e012edfb.js",
     "src": "src/routes/resources/[heading].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_stores-76de0764.js",
-      "_PageHeader-1e706257.js",
-      "_page-71457ca4.js"
+      "_PageHeader-2fbde0a4.js",
+      "_width-47c7269d.js"
     ],
     "css": [
       "assets/pages/resources/_heading_.svelte-8576715f.css"
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "pages/about/index.svelte-e621ecd9.js",
+    "file": "pages/about/index.svelte-35443a8d.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_NotificationLink-a1977618.js",
-      "_PageHeader-1e706257.js",
+      "_PageHeader-2fbde0a4.js",
       "_stores-76de0764.js",
-      "_page-71457ca4.js"
+      "_width-47c7269d.js"
     ]
   },
   "src/routes/about/constitution.svelte": {
-    "file": "pages/about/constitution.svelte-f2a8af86.js",
+    "file": "pages/about/constitution.svelte-bd1e0716.js",
     "src": "src/routes/about/constitution.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-1e706257.js",
-      "_page-71457ca4.js"
+      "_PageHeader-2fbde0a4.js",
+      "_width-47c7269d.js"
     ],
     "css": [
       "assets/pages/about/constitution.svelte-fa68b626.css"
     ]
   },
   "src/routes/about/meetings.svelte": {
-    "file": "pages/about/meetings.svelte-9542cc64.js",
+    "file": "pages/about/meetings.svelte-3e3e5d54.js",
     "src": "src/routes/about/meetings.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-1e706257.js",
-      "_page-71457ca4.js"
+      "_PageHeader-2fbde0a4.js",
+      "_width-47c7269d.js"
     ]
   },
   "src/routes/about/roles.svelte": {
-    "file": "pages/about/roles.svelte-fcc0bea9.js",
+    "file": "pages/about/roles.svelte-91320fe5.js",
     "src": "src/routes/about/roles.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-1e706257.js",
-      "_width-1f60229a.js",
-      "_page-71457ca4.js"
+      "_PageHeader-2fbde0a4.js",
+      "_width-47c7269d.js"
     ],
     "css": [
       "assets/pages/about/roles.svelte-502116d9.css"
@@ -136,14 +134,8 @@
   "_vendor-b4a8eef2.js": {
     "file": "chunks/vendor-b4a8eef2.js"
   },
-  "_page-71457ca4.js": {
-    "file": "chunks/page-71457ca4.js",
-    "imports": [
-      "_vendor-b4a8eef2.js"
-    ]
-  },
-  "_width-1f60229a.js": {
-    "file": "chunks/width-1f60229a.js",
+  "_width-47c7269d.js": {
+    "file": "chunks/width-47c7269d.js",
     "imports": [
       "_vendor-b4a8eef2.js"
     ]
@@ -158,11 +150,11 @@
       "assets/NotificationLink-9e75bd73.css"
     ]
   },
-  "_PageHeader-1e706257.js": {
-    "file": "chunks/PageHeader-1e706257.js",
+  "_PageHeader-2fbde0a4.js": {
+    "file": "chunks/PageHeader-2fbde0a4.js",
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_page-71457ca4.js"
+      "_width-47c7269d.js"
     ],
     "css": [
       "assets/PageHeader-1b7ca13c.css"
