@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-5fb08950.js",
+    "file": "start-36424376.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -19,7 +19,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-5c0ef1bb.js",
+    "file": "pages/__layout.svelte-20dec849.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -28,7 +28,7 @@
       "_width-47c7269d.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-c1c00921.css"
+      "assets/pages/__layout.svelte-a16599bf.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -41,38 +41,38 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8e54b0d6.js",
+    "file": "pages/index.svelte-b1a51309.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_NotificationLink-a1977618.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_stores-76de0764.js",
       "_width-47c7269d.js"
     ]
   },
   "src/routes/resources/index.svelte": {
-    "file": "pages/resources/index.svelte-2e2d8f4a.js",
+    "file": "pages/resources/index.svelte-9745331d.js",
     "src": "src/routes/resources/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_width-47c7269d.js"
     ]
   },
   "src/routes/resources/[heading].svelte": {
-    "file": "pages/resources/_heading_.svelte-e012edfb.js",
+    "file": "pages/resources/_heading_.svelte-1b3db690.js",
     "src": "src/routes/resources/[heading].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_stores-76de0764.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_width-47c7269d.js"
     ],
     "css": [
@@ -80,26 +80,26 @@
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "pages/about/index.svelte-35443a8d.js",
+    "file": "pages/about/index.svelte-815a64e7.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
       "_NotificationLink-a1977618.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_stores-76de0764.js",
       "_width-47c7269d.js"
     ]
   },
   "src/routes/about/constitution.svelte": {
-    "file": "pages/about/constitution.svelte-bd1e0716.js",
+    "file": "pages/about/constitution.svelte-86cebde3.js",
     "src": "src/routes/about/constitution.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_width-47c7269d.js"
     ],
     "css": [
@@ -107,24 +107,24 @@
     ]
   },
   "src/routes/about/meetings.svelte": {
-    "file": "pages/about/meetings.svelte-3e3e5d54.js",
+    "file": "pages/about/meetings.svelte-63c9f19a.js",
     "src": "src/routes/about/meetings.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_width-47c7269d.js"
     ]
   },
   "src/routes/about/roles.svelte": {
-    "file": "pages/about/roles.svelte-91320fe5.js",
+    "file": "pages/about/roles.svelte-59cc999e.js",
     "src": "src/routes/about/roles.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b4a8eef2.js",
-      "_PageHeader-2fbde0a4.js",
+      "_PageHeader-8849967d.js",
       "_width-47c7269d.js"
     ],
     "css": [
@@ -150,8 +150,8 @@
       "assets/NotificationLink-9e75bd73.css"
     ]
   },
-  "_PageHeader-2fbde0a4.js": {
-    "file": "chunks/PageHeader-2fbde0a4.js",
+  "_PageHeader-8849967d.js": {
+    "file": "chunks/PageHeader-8849967d.js",
     "imports": [
       "_vendor-b4a8eef2.js",
       "_width-47c7269d.js"
