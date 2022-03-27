@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-36424376.js",
+    "file": "start-d7a29935.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js"
+      "_vendor-131c336b.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -12,6 +12,7 @@
       "src/routes/index.svelte",
       "src/routes/resources/index.svelte",
       "src/routes/resources/[heading].svelte",
+      "src/routes/societies/index.svelte",
       "src/routes/about/index.svelte",
       "src/routes/about/constitution.svelte",
       "src/routes/about/meetings.svelte",
@@ -19,151 +20,162 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-20dec849.js",
+    "file": "pages/__layout.svelte-2557e598.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_width-7fb251e8.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-a16599bf.css"
+      "assets/pages/__layout.svelte-c7002296.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-ebfa9f33.js",
+    "file": "error.svelte-14e958c1.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js"
+      "_vendor-131c336b.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-b1a51309.js",
+    "file": "pages/index.svelte-4b3a9145.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_NotificationLink-a1977618.js",
-      "_PageHeader-8849967d.js",
-      "_stores-76de0764.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_NotificationLink-242b3f98.js",
+      "_PageHeader-b7d392f4.js",
+      "_stores-afae7de1.js",
+      "_width-7fb251e8.js"
     ]
   },
   "src/routes/resources/index.svelte": {
-    "file": "pages/resources/index.svelte-9745331d.js",
+    "file": "pages/resources/index.svelte-b3c48bfe.js",
     "src": "src/routes/resources/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_PageHeader-8849967d.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
     ]
   },
   "src/routes/resources/[heading].svelte": {
-    "file": "pages/resources/_heading_.svelte-1b3db690.js",
+    "file": "pages/resources/_heading_.svelte-b44d18e8.js",
     "src": "src/routes/resources/[heading].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_stores-76de0764.js",
-      "_PageHeader-8849967d.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_stores-afae7de1.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
     ],
     "css": [
       "assets/pages/resources/_heading_.svelte-8576715f.css"
     ]
   },
+  "src/routes/societies/index.svelte": {
+    "file": "pages/societies/index.svelte-b8cda104.js",
+    "src": "src/routes/societies/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-131c336b.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
+    ]
+  },
   "src/routes/about/index.svelte": {
-    "file": "pages/about/index.svelte-815a64e7.js",
+    "file": "pages/about/index.svelte-69e0effc.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_NotificationLink-a1977618.js",
-      "_PageHeader-8849967d.js",
-      "_stores-76de0764.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_NotificationLink-242b3f98.js",
+      "_PageHeader-b7d392f4.js",
+      "_stores-afae7de1.js",
+      "_width-7fb251e8.js"
     ]
   },
   "src/routes/about/constitution.svelte": {
-    "file": "pages/about/constitution.svelte-86cebde3.js",
+    "file": "pages/about/constitution.svelte-0274f4fd.js",
     "src": "src/routes/about/constitution.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_PageHeader-8849967d.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
     ],
     "css": [
       "assets/pages/about/constitution.svelte-fa68b626.css"
     ]
   },
   "src/routes/about/meetings.svelte": {
-    "file": "pages/about/meetings.svelte-63c9f19a.js",
+    "file": "pages/about/meetings.svelte-faaf9a36.js",
     "src": "src/routes/about/meetings.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_PageHeader-8849967d.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
     ]
   },
   "src/routes/about/roles.svelte": {
-    "file": "pages/about/roles.svelte-59cc999e.js",
+    "file": "pages/about/roles.svelte-21fbe01b.js",
     "src": "src/routes/about/roles.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_PageHeader-8849967d.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_PageHeader-b7d392f4.js",
+      "_width-7fb251e8.js"
     ],
     "css": [
       "assets/pages/about/roles.svelte-502116d9.css"
     ]
   },
-  "_vendor-b4a8eef2.js": {
-    "file": "chunks/vendor-b4a8eef2.js"
+  "_vendor-131c336b.js": {
+    "file": "chunks/vendor-131c336b.js"
   },
-  "_width-47c7269d.js": {
-    "file": "chunks/width-47c7269d.js",
+  "_width-7fb251e8.js": {
+    "file": "chunks/width-7fb251e8.js",
     "imports": [
-      "_vendor-b4a8eef2.js"
+      "_vendor-131c336b.js"
     ]
   },
-  "_NotificationLink-a1977618.js": {
-    "file": "chunks/NotificationLink-a1977618.js",
+  "_NotificationLink-242b3f98.js": {
+    "file": "chunks/NotificationLink-242b3f98.js",
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_stores-76de0764.js"
+      "_vendor-131c336b.js",
+      "_stores-afae7de1.js"
     ],
     "css": [
       "assets/NotificationLink-9e75bd73.css"
     ]
   },
-  "_PageHeader-8849967d.js": {
-    "file": "chunks/PageHeader-8849967d.js",
+  "_PageHeader-b7d392f4.js": {
+    "file": "chunks/PageHeader-b7d392f4.js",
     "imports": [
-      "_vendor-b4a8eef2.js",
-      "_width-47c7269d.js"
+      "_vendor-131c336b.js",
+      "_width-7fb251e8.js"
     ],
     "css": [
       "assets/PageHeader-1b7ca13c.css"
     ]
   },
-  "_stores-76de0764.js": {
-    "file": "chunks/stores-76de0764.js",
+  "_stores-afae7de1.js": {
+    "file": "chunks/stores-afae7de1.js",
     "imports": [
-      "_vendor-b4a8eef2.js"
+      "_vendor-131c336b.js"
     ]
   }
 }
