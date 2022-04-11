@@ -1,4 +1,4 @@
-import{S as A,i as H,s as P,w as T,x as D,y as j,q as B,o as K,B as O,e as d,t as w,k as y,c as u,a as f,h as $,d as a,m as E,b as m,H as S,g as x,K as r}from"../../chunks/vendor-131c336b.js";import{P as F}from"../../chunks/PageHeader-bf1e479b.js";import"../../chunks/width-7fb251e8.js";function L(_){let t,n,e,l,h,c,g,v,p,b,C,i,R;return{c(){t=d("div"),n=d("blockquote"),e=w(`The JCR is guided by a Constitution which dictates the composition
+import{S as A,i as H,s as P,w as T,x as D,y as j,q as B,o as K,B as O,e as d,t as w,k as y,c as u,a as f,h as $,d as a,m as E,b as m,H as S,g as x,K as r}from"../../chunks/vendor-643ede4e.js";import{P as F}from"../../chunks/PageHeader-62982b9a.js";import"../../chunks/width-f34dbd30.js";function L(_){let t,n,e,l,h,c,g,v,p,b,C,i,R;return{c(){t=d("div"),n=d("blockquote"),e=w(`The JCR is guided by a Constitution which dictates the composition
             of the Executive Committee and the responsibilities of its officers
             to Christ's students. It also governs more mundane procedural
             matters and the nature of the relationship between the JCR and the
