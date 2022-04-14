@@ -1,1 +1,0 @@
-import{D as a}from"./vendor-643ede4e.js";const s=a({current:null,type:"primary",header:null}),e=a(0),n={min:769,max:1023},r={min:1024,max:1215},m={min:1216,max:1407};export{m as a,r as d,s as p,n as t,e as w};
