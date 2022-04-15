@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-aac8f389.js",
+    "file": "start-8abf193d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -145,7 +145,7 @@
     ]
   },
   "src/routes/resources/legacies-of-enslavement.svelte": {
-    "file": "pages/resources/legacies-of-enslavement.svelte-baf8b71e.js",
+    "file": "pages/resources/legacies-of-enslavement.svelte-a742fc00.js",
     "src": "src/routes/resources/legacies-of-enslavement.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
