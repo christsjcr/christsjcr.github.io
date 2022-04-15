@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a5fdf99e.js",
+    "file": "start-7858b16d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,11 +17,12 @@
       "src/routes/index.svelte",
       "src/routes/resources/[heading].svelte",
       "src/routes/resources/index.svelte",
+      "src/routes/resources/legacies-of-enslavement.svelte",
       "src/routes/societies/index.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-95c7fdcb.js",
+    "file": "pages/__layout.svelte-1e3990ca.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -32,7 +33,7 @@
       "_index-ad16d0c5.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-97367f08.css"
+      "assets/pages/__layout.svelte-9129da02.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -45,7 +46,7 @@
     ]
   },
   "src/routes/about/constitution.svelte": {
-    "file": "pages/about/constitution.svelte-887e12da.js",
+    "file": "pages/about/constitution.svelte-65ae1f3d.js",
     "src": "src/routes/about/constitution.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -60,7 +61,7 @@
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "pages/about/index.svelte-eef835e3.js",
+    "file": "pages/about/index.svelte-d619d923.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -86,7 +87,7 @@
     ]
   },
   "src/routes/about/roles.svelte": {
-    "file": "pages/about/roles.svelte-9360e105.js",
+    "file": "pages/about/roles.svelte-4a397b11.js",
     "src": "src/routes/about/roles.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -94,6 +95,7 @@
       "_index-cfa37649.js",
       "_PageHeader-67602b20.js",
       "_width-55da6166.js",
+      "_SideMenu-3c95f6b5.js",
       "_index-ad16d0c5.js"
     ],
     "css": [
@@ -101,7 +103,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-128b62bf.js",
+    "file": "pages/index.svelte-5722fbc3.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -115,7 +117,7 @@
     ]
   },
   "src/routes/resources/[heading].svelte": {
-    "file": "pages/resources/_heading_.svelte-5ed89b20.js",
+    "file": "pages/resources/_heading_.svelte-544d2218.js",
     "src": "src/routes/resources/[heading].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -137,6 +139,19 @@
     "isDynamicEntry": true,
     "imports": [
       "_index-cfa37649.js",
+      "_PageHeader-67602b20.js",
+      "_width-55da6166.js",
+      "_index-ad16d0c5.js"
+    ]
+  },
+  "src/routes/resources/legacies-of-enslavement.svelte": {
+    "file": "pages/resources/legacies-of-enslavement.svelte-baf8b71e.js",
+    "src": "src/routes/resources/legacies-of-enslavement.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cfa37649.js",
+      "_SideMenu-3c95f6b5.js",
       "_PageHeader-67602b20.js",
       "_width-55da6166.js",
       "_index-ad16d0c5.js"
@@ -198,6 +213,12 @@
   },
   "_stores-acb363e7.js": {
     "file": "chunks/stores-acb363e7.js",
+    "imports": [
+      "_index-cfa37649.js"
+    ]
+  },
+  "_SideMenu-3c95f6b5.js": {
+    "file": "chunks/SideMenu-3c95f6b5.js",
     "imports": [
       "_index-cfa37649.js"
     ]

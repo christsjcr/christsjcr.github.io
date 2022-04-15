@@ -30,11 +30,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://thejcr.co.uk/resources/academicandcareers</loc>
+    <loc>https://thejcr.co.uk/resources/academic-and-careers</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://thejcr.co.uk/resources/college</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/resources/legacies-of-enslavement</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
