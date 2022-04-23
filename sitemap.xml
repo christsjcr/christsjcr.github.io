@@ -18,6 +18,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://thejcr.co.uk/about/committee</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://thejcr.co.uk/about/constitution</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -26,15 +30,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://thejcr.co.uk/about/roles</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://thejcr.co.uk/resources/academic-and-careers</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://thejcr.co.uk/resources/college</loc>
+    <loc>https://thejcr.co.uk/resources/college-life</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
