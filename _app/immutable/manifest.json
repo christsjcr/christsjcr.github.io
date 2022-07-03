@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-ffa7ef99.js",
+    "file": "start-abdd9007.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -22,13 +22,13 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-01d50eb8.js",
+    "file": "pages/__layout.svelte-1a20b3ed.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_FontAwesomeIcon-1351da4e.js",
       "_TrackedLink-79318a3e.js",
       "_index-ecb96d3f.js"
@@ -47,14 +47,14 @@
     ]
   },
   "src/routes/about/committee.svelte": {
-    "file": "pages/about/committee.svelte-a646ee4a.js",
+    "file": "pages/about/committee.svelte-fe28ac14.js",
     "src": "src/routes/about/committee.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
-      "_PageHeader-5bc72b95.js",
-      "_width-432c46c4.js",
+      "_PageHeader-1e415c39.js",
+      "_width-589b83a5.js",
       "_SideMenu-2315b6b7.js",
       "_index-ecb96d3f.js"
     ],
@@ -63,34 +63,34 @@
     ]
   },
   "src/routes/about/constitution-and-guidelines.svelte": {
-    "file": "pages/about/constitution-and-guidelines.svelte-5cbf41a0.js",
+    "file": "pages/about/constitution-and-guidelines.svelte-2e8ead0a.js",
     "src": "src/routes/about/constitution-and-guidelines.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
       "_Content-8bb5763a.js",
-      "_PageHeader-5bc72b95.js",
-      "_width-432c46c4.js",
+      "_PageHeader-1e415c39.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "pages/about/index.svelte-278b995c.js",
+    "file": "pages/about/index.svelte-84ed8a86.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
       "_NotificationLink-f4aba1c3.js",
-      "_PageHeader-5bc72b95.js",
+      "_PageHeader-1e415c39.js",
       "_stores-eae06219.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
   "src/routes/about/meetings.svelte": {
-    "file": "pages/about/meetings.svelte-ec99e703.js",
+    "file": "pages/about/meetings.svelte-da11959f.js",
     "src": "src/routes/about/meetings.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -98,28 +98,28 @@
       "_index-afe72f92.js",
       "_Content-8bb5763a.js",
       "_TrackedLink-79318a3e.js",
-      "_PageHeader-5bc72b95.js",
-      "_width-432c46c4.js",
+      "_PageHeader-1e415c39.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-cdbbdb1e.js",
+    "file": "pages/index.svelte-d3c253da.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
       "_NotificationLink-f4aba1c3.js",
-      "_PageHeader-5bc72b95.js",
+      "_PageHeader-1e415c39.js",
       "_TrackedLink-79318a3e.js",
       "_index-ecb96d3f.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_stores-eae06219.js"
     ]
   },
   "src/routes/resources/[heading].svelte": {
-    "file": "pages/resources/_heading_.svelte-4e709b1c.js",
+    "file": "pages/resources/_heading_.svelte-31f6d732.js",
     "src": "src/routes/resources/[heading].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -127,8 +127,8 @@
       "_index-afe72f92.js",
       "_stores-eae06219.js",
       "_Markdown-e16c74b4.js",
-      "_PageHeader-5bc72b95.js",
-      "_width-432c46c4.js",
+      "_PageHeader-1e415c39.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ],
     "css": [
@@ -136,44 +136,44 @@
     ]
   },
   "src/routes/resources/index.svelte": {
-    "file": "pages/resources/index.svelte-7f4afbb2.js",
+    "file": "pages/resources/index.svelte-c65aa227.js",
     "src": "src/routes/resources/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
       "_NotificationLink-f4aba1c3.js",
-      "_PageHeader-5bc72b95.js",
+      "_PageHeader-1e415c39.js",
       "_stores-eae06219.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
   "src/routes/resources/legacies-of-enslavement.svelte": {
-    "file": "pages/resources/legacies-of-enslavement.svelte-87448990.js",
+    "file": "pages/resources/legacies-of-enslavement.svelte-d2bbd50a.js",
     "src": "src/routes/resources/legacies-of-enslavement.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
       "_SideMenu-2315b6b7.js",
-      "_PageHeader-5bc72b95.js",
+      "_PageHeader-1e415c39.js",
       "_Content-8bb5763a.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
   "src/routes/societies/index.svelte": {
-    "file": "pages/societies/index.svelte-66dfbe17.js",
+    "file": "pages/societies/index.svelte-5a109da7.js",
     "src": "src/routes/societies/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-afe72f92.js",
-      "_PageHeader-5bc72b95.js",
+      "_PageHeader-1e415c39.js",
       "_FontAwesomeIcon-1351da4e.js",
       "_Markdown-e16c74b4.js",
-      "_width-432c46c4.js",
+      "_width-589b83a5.js",
       "_index-ecb96d3f.js"
     ]
   },
@@ -198,17 +198,17 @@
       "_index-afe72f92.js"
     ]
   },
-  "_width-432c46c4.js": {
-    "file": "chunks/width-432c46c4.js",
+  "_width-589b83a5.js": {
+    "file": "chunks/width-589b83a5.js",
     "imports": [
       "_index-ecb96d3f.js"
     ]
   },
-  "_PageHeader-5bc72b95.js": {
-    "file": "chunks/PageHeader-5bc72b95.js",
+  "_PageHeader-1e415c39.js": {
+    "file": "chunks/PageHeader-1e415c39.js",
     "imports": [
       "_index-afe72f92.js",
-      "_width-432c46c4.js"
+      "_width-589b83a5.js"
     ],
     "css": [
       "assets/PageHeader-fb36aebc.css"
