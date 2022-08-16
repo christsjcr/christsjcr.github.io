@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-abdd9007.js",
+    "file": "start-64ef0053.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,12 +17,11 @@
       "src/routes/index.svelte",
       "src/routes/resources/[heading].svelte",
       "src/routes/resources/index.svelte",
-      "src/routes/resources/legacies-of-enslavement.svelte",
       "src/routes/societies/index.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-1a20b3ed.js",
+    "file": "pages/__layout.svelte-e1dc7a12.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -47,7 +46,7 @@
     ]
   },
   "src/routes/about/committee.svelte": {
-    "file": "pages/about/committee.svelte-fe28ac14.js",
+    "file": "pages/about/committee.svelte-c00a5084.js",
     "src": "src/routes/about/committee.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -55,7 +54,6 @@
       "_index-afe72f92.js",
       "_PageHeader-1e415c39.js",
       "_width-589b83a5.js",
-      "_SideMenu-2315b6b7.js",
       "_index-ecb96d3f.js"
     ],
     "css": [
@@ -104,7 +102,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-d3c253da.js",
+    "file": "pages/index.svelte-08f20bb4.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -149,22 +147,8 @@
       "_index-ecb96d3f.js"
     ]
   },
-  "src/routes/resources/legacies-of-enslavement.svelte": {
-    "file": "pages/resources/legacies-of-enslavement.svelte-d2bbd50a.js",
-    "src": "src/routes/resources/legacies-of-enslavement.svelte",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-afe72f92.js",
-      "_SideMenu-2315b6b7.js",
-      "_PageHeader-1e415c39.js",
-      "_Content-8bb5763a.js",
-      "_width-589b83a5.js",
-      "_index-ecb96d3f.js"
-    ]
-  },
   "src/routes/societies/index.svelte": {
-    "file": "pages/societies/index.svelte-5a109da7.js",
+    "file": "pages/societies/index.svelte-8f6d4775.js",
     "src": "src/routes/societies/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -212,12 +196,6 @@
     ],
     "css": [
       "assets/PageHeader-fb36aebc.css"
-    ]
-  },
-  "_SideMenu-2315b6b7.js": {
-    "file": "chunks/SideMenu-2315b6b7.js",
-    "imports": [
-      "_index-afe72f92.js"
     ]
   },
   "_Content-8bb5763a.js": {
