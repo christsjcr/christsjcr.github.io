@@ -1,1 +1,0 @@
-import{default as e}from"../components/pages/about/committee/_page.svelte-7f4e4552.js";import"./index-2eefe4c2.js";import"./PageHeader-17bea57a.js";import"./width-2a25f2ea.js";import"./index-2c9f01fc.js";export{e as component};

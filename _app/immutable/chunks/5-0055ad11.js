@@ -1,1 +1,0 @@
-import{default as a}from"../components/pages/about/constitution-and-guidelines/_page.svelte-5b29a9ce.js";import"./index-2eefe4c2.js";import"./Content-25cbe6e8.js";import"./PageHeader-17bea57a.js";import"./width-2a25f2ea.js";import"./index-2c9f01fc.js";export{a as component};

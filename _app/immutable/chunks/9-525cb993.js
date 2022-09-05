@@ -1,0 +1,1 @@
+import{default as a}from"../components/pages/societies/_page.svelte-a327274f.js";import"./index-390bd58d.js";import"./PageHeader-3abd2a7b.js";import"./width-3b351736.js";import"./FontAwesomeIcon-beb86f79.js";import"./Markdown-aa3c945c.js";export{a as component};
