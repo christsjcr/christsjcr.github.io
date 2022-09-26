@@ -6,15 +6,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://thejcr.co.uk/get-involved</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://thejcr.co.uk</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://thejcr.co.uk/resources</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://thejcr.co.uk/societies</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -27,6 +27,14 @@
   </url>
   <url>
     <loc>https://thejcr.co.uk/about/meetings</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/get-involved/freshers</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/get-involved/societies</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
