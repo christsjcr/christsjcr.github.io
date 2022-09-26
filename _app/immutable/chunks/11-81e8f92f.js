@@ -1,1 +1,0 @@
-import{default as f}from"../components/pages/resources/_heading_/_page.svelte-0e4eb8dc.js";import"./index-f9721e3d.js";import"./stores-57d4d3d4.js";import"./singletons-2557d2d1.js";import"./Markdown-027b6ef9.js";import"./PageHeader-17c79210.js";import"./width-fd20bcd4.js";export{f as component};
