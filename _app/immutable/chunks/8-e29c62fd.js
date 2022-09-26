@@ -1,1 +1,0 @@
-import{default as e}from"../components/pages/get-involved/freshers/_page.svelte-65f92200.js";import"./index-f9721e3d.js";import"./Content-ab35efd6.js";import"./PageHeader-17c79210.js";import"./width-fd20bcd4.js";export{e as component};
