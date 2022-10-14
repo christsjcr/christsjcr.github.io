@@ -26,6 +26,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://thejcr.co.uk/about/elections</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://thejcr.co.uk/about/meetings</loc>
     <changefreq>weekly</changefreq>
   </url>
