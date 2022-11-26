@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-0eae6c6b.js",
+    "file": "_app/immutable/start-f8202206.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -70,7 +70,7 @@
     ]
   },
   "src/routes/about/committee/+page.svelte": {
-    "file": "_app/immutable/components/pages/about/committee/_page.svelte-aafc90f8.js",
+    "file": "_app/immutable/components/pages/about/committee/_page.svelte-c68b089a.js",
     "src": "src/routes/about/committee/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -93,7 +93,7 @@
     ]
   },
   "src/routes/about/elections/+page.svelte": {
-    "file": "_app/immutable/components/pages/about/elections/_page.svelte-8e35cce8.js",
+    "file": "_app/immutable/components/pages/about/elections/_page.svelte-914ac5c0.js",
     "src": "src/routes/about/elections/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -307,7 +307,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-9a8c74d6.js",
+    "file": "_app/immutable/chunks/4-d0741c0e.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -323,7 +323,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "_app/immutable/chunks/6-497dfc66.js",
+    "file": "_app/immutable/chunks/6-35685847.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -390,13 +390,13 @@
     "file": "_app/immutable/assets/PageHeader-25283914.css",
     "src": "PageHeader.css"
   },
-  "src/routes/about/committee/+page.css": {
-    "file": "_app/immutable/assets/_page-a2ddf001.css",
-    "src": "src/routes/about/committee/+page.css"
-  },
   "src/routes/get-involved/freshers/+page.css": {
     "file": "_app/immutable/assets/_page-e5f8ff0b.css",
     "src": "src/routes/get-involved/freshers/+page.css"
+  },
+  "src/routes/about/committee/+page.css": {
+    "file": "_app/immutable/assets/_page-a2ddf001.css",
+    "src": "src/routes/about/committee/+page.css"
   },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/_layout-2ee860c0.css",
