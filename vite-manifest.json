@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-b5d222a8.js",
+    "file": "_app/immutable/start-1fe3c8ed.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -140,7 +140,7 @@
     ]
   },
   "src/routes/get-involved/feedback/+page.svelte": {
-    "file": "_app/immutable/components/pages/get-involved/feedback/_page.svelte-b1cd8849.js",
+    "file": "_app/immutable/components/pages/get-involved/feedback/_page.svelte-a982b65f.js",
     "src": "src/routes/get-involved/feedback/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -150,7 +150,7 @@
     ]
   },
   "src/routes/get-involved/feedback/respond/+page.svelte": {
-    "file": "_app/immutable/components/pages/get-involved/feedback/respond/_page.svelte-f94b1caa.js",
+    "file": "_app/immutable/components/pages/get-involved/feedback/respond/_page.svelte-c19c5191.js",
     "src": "src/routes/get-involved/feedback/respond/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -399,7 +399,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/10.js": {
-    "file": "_app/immutable/chunks/10-4f724bd0.js",
+    "file": "_app/immutable/chunks/10-11f3c38b.js",
     "src": ".svelte-kit/generated/nodes/10.js",
     "isDynamicEntry": true,
     "imports": [
@@ -407,7 +407,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/11.js": {
-    "file": "_app/immutable/chunks/11-bd76b8c7.js",
+    "file": "_app/immutable/chunks/11-6232606c.js",
     "src": ".svelte-kit/generated/nodes/11.js",
     "isDynamicEntry": true,
     "imports": [
@@ -458,14 +458,6 @@
     "file": "_app/immutable/assets/NotificationLink-24e04704.css",
     "src": "NotificationLink.css"
   },
-  "src/routes/resources/[heading]/+page.css": {
-    "file": "_app/immutable/assets/_page-8c93789c.css",
-    "src": "src/routes/resources/[heading]/+page.css"
-  },
-  "src/routes/get-involved/freshers/+page.css": {
-    "file": "_app/immutable/assets/_page-e5f8ff0b.css",
-    "src": "src/routes/get-involved/freshers/+page.css"
-  },
   "src/routes/about/committee/+page.css": {
     "file": "_app/immutable/assets/_page-a2ddf001.css",
     "src": "src/routes/about/committee/+page.css"
@@ -473,6 +465,14 @@
   "PageHeader.css": {
     "file": "_app/immutable/assets/PageHeader-25283914.css",
     "src": "PageHeader.css"
+  },
+  "src/routes/get-involved/freshers/+page.css": {
+    "file": "_app/immutable/assets/_page-e5f8ff0b.css",
+    "src": "src/routes/get-involved/freshers/+page.css"
+  },
+  "src/routes/resources/[heading]/+page.css": {
+    "file": "_app/immutable/assets/_page-8c93789c.css",
+    "src": "src/routes/resources/[heading]/+page.css"
   },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/_layout-2ee860c0.css",
