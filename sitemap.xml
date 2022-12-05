@@ -6,6 +6,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://thejcr.co.uk/error</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://thejcr.co.uk/get-involved</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -15,6 +19,10 @@
   </url>
   <url>
     <loc>https://thejcr.co.uk/resources</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/success</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -58,11 +66,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://thejcr.co.uk/get-involved/feedback/error</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://thejcr.co.uk/get-involved/feedback/success</loc>
+    <loc>https://thejcr.co.uk/get-involved/feedback/respond</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
