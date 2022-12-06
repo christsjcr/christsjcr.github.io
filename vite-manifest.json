@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-1fe3c8ed.js",
+    "file": "_app/immutable/start-171ad4c2.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -74,7 +74,7 @@
     ]
   },
   "src/routes/about/committee/+page.svelte": {
-    "file": "_app/immutable/components/pages/about/committee/_page.svelte-48b7fb7a.js",
+    "file": "_app/immutable/components/pages/about/committee/_page.svelte-329c7c4f.js",
     "src": "src/routes/about/committee/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -351,7 +351,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-b22d8fef.js",
+    "file": "_app/immutable/chunks/4-14276952.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -458,13 +458,13 @@
     "file": "_app/immutable/assets/NotificationLink-24e04704.css",
     "src": "NotificationLink.css"
   },
-  "src/routes/about/committee/+page.css": {
-    "file": "_app/immutable/assets/_page-a2ddf001.css",
-    "src": "src/routes/about/committee/+page.css"
-  },
   "PageHeader.css": {
     "file": "_app/immutable/assets/PageHeader-25283914.css",
     "src": "PageHeader.css"
+  },
+  "src/routes/about/committee/+page.css": {
+    "file": "_app/immutable/assets/_page-a2ddf001.css",
+    "src": "src/routes/about/committee/+page.css"
   },
   "src/routes/get-involved/freshers/+page.css": {
     "file": "_app/immutable/assets/_page-e5f8ff0b.css",
