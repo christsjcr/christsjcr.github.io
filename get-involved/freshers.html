@@ -10,24 +10,26 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="content-security-policy" content="">
-		<link href="../_app/immutable/assets/_layout-70e79edd.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/_page-e5f8ff0b.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/PageHeader-25283914.css" rel="stylesheet">
-		<link rel="modulepreload" href="../_app/immutable/start-a695a372.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index-1c9a2649.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons-9f904d44.js">
-		<link rel="modulepreload" href="../_app/immutable/components/pages/_layout.svelte-50c7a2d9.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/width-434b20a5.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/FontAwesomeIcon-f6d5acc2.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.es-d2395e7c.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/TrackedLink-ae690b37.js">
-		<link rel="modulepreload" href="../_app/immutable/modules/pages/_layout.ts-9cbb603b.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/_layout-da46b06b.js">
-		<link rel="modulepreload" href="../_app/immutable/components/pages/get-involved/freshers/_page.svelte-054ed8ee.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/Content-853add61.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/UpperHallMenu-5a0d4206.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/TitleBox-a1116974.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/PageHeader-d04d2c0a.js"><title>Freshers | Christ's JCR</title><!-- HEAD_svelte-jh4lai_START --><meta name="description" content="Resources for undergraduate students of Christ's College, Cambridge."><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link rel="canonical" href="https://thejcr.co.uk/get-involved/freshers"><!-- HEAD_svelte-jh4lai_END -->
+		<link href="../_app/immutable/assets/_layout.2fc60d05.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/_page.e5f8ff0b.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/PageHeader.25283914.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.9b65bd03.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.5c882778.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.bcf079a4.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.963af743.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.1ca8e7e1.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/_layout.svelte.c7a4d00d.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/width.eef2252d.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/FontAwesomeIcon.fa5f5bd7.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.es.5c3e4654.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/TrackedLink.19595e0b.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/_layout.ts.984db11e.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/_layout.da46b06b.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/get-involved-freshers-page.svelte.c55c83ba.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/Content.a639e13f.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/UpperHallMenu.e44de0b6.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/TitleBox.1e0811e2.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/PageHeader.47b09527.js"><title>Freshers | Christ's JCR</title><!-- HEAD_svelte-jh4lai_START --><meta name="description" content="Resources for undergraduate students of Christ's College, Cambridge."><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link rel="canonical" href="https://thejcr.co.uk/get-involved/freshers"><!-- HEAD_svelte-jh4lai_END -->
 </head>
 
 <body>
@@ -154,22 +156,31 @@
 </div>
 
 
-		<script type="module" data-sveltekit-hydrate="1vkaclp">
-			import { start } from "../_app/immutable/start-a695a372.js";
+			
+			<script>
+				{
+					__sveltekit_gium9j = {
+						env: {},
+						base: new URL("..", location).pathname.slice(0, -1),
+						element: document.currentScript.parentElement
+					};
 
-			start({
-				env: {},
-				paths: {"base":"","assets":""},
-				target: document.querySelector('[data-sveltekit-hydrate="1vkaclp"]').parentNode,
-				version: "1678044475563",
-				hydrate: {
-					node_ids: [0, 12],
-					data: [null,null],
-					form: null
+					const data = [null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.9b65bd03.js"),
+						import("../_app/immutable/entry/app.1ca8e7e1.js")
+					]).then(([kit, app]) => {
+						kit.start(app, __sveltekit_gium9j.element, {
+							node_ids: [0, 12],
+							data,
+							form: null,
+							error: null
+						});
+					});
 				}
-			});
-		</script>
-	</div>
+			</script>
+		</div>
 </body>
 
 </html>
