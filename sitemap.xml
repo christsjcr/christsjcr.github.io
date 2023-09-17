@@ -42,18 +42,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://thejcr.co.uk/get-involved/feedback</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://thejcr.co.uk/get-involved/freshers</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://thejcr.co.uk/get-involved/societies</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://thejcr.co.uk/resources/academic-and-careers</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -63,6 +51,18 @@
   </url>
   <url>
     <loc>https://thejcr.co.uk/resources/welfare</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/get-involved/feedback</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/get-involved/freshers</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://thejcr.co.uk/get-involved/societies</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
